@@ -1,0 +1,14 @@
+Create github account
+Create repository
+Copy repo link and paste it on terminal
+go to that directory
+create file
+git config --global user.email "email"
+git config --global user.name "username"
+git add
+git commit -m "message"
+git push
+
+For password authnetication 
+git push origin main
+enter ssh-key in github and generate token from developer option and enter it in place of password while pushing file to repo
